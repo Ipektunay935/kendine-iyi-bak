@@ -1,0 +1,1586 @@
+[
+    {
+        "facilityId": "a99e0551-d2a6-4214-b282-18b85d7c52aa",
+        "facilityName": "Medipol Çamlıca",
+        "resources": [
+            {
+                "id": "0611fa0a-41c0-45d1-9e39-1112cc81e931",
+                "name": "Dr.Öğr.Üyesi EMRE BULUT",
+                "identityNumber": "00605421328",
+                "imageId": "4543",
+                "externalId": "4739",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "bf24d7b7-0a34-4a9e-ab54-ae9b557283f7",
+                "canOnlineAppointment": true,
+                "isInCall": false
+            },
+            {
+                "id": "2ddc2da8-f31b-4bb3-b760-9906b97260c9",
+                "name": "Uzm.Dr. OSMAN YILMAZ",
+                "identityNumber": "02787335318",
+                "imageId": "6460",
+                "externalId": "7162",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "99affe72-bb1b-4686-b74f-21277a159691",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "d9c32d81-f71c-4a9f-938f-1118d428d5d4",
+                "name": "Doç.Dr. MEHMET SARI",
+                "identityNumber": "09005524454",
+                "imageId": "1951",
+                "externalId": "6963",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "a0665fbd-11aa-4d00-b0f3-56c30be06575",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "23d77352-7e01-455d-8d2b-a937f1995601",
+                "name": "Doç.Dr. SİNAN GÜNEŞ",
+                "identityNumber": "04137790282",
+                "imageId": "6045",
+                "externalId": "4518",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "49d10f84-e3b9-4dd5-8356-efbf86f40550",
+                "canOnlineAppointment": true,
+                "isInCall": false
+            },
+            {
+                "id": "07de1545-7209-4104-8a39-56c25f39c4ec",
+                "name": "Doç.Dr. PINAR YILDIZ",
+                "identityNumber": "06125296518",
+                "imageId": "1830",
+                "externalId": "2661",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "a9fa20ac-f882-4b40-8bc0-623f26a1a0a5",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "d82da5e0-c7fd-4f73-b85e-a66aa45dacc6",
+                "name": "Uzm.Dr. EMİNE YILDIZ",
+                "identityNumber": "04531189008",
+                "imageId": "6649",
+                "externalId": "6496",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "f901ee68-b035-4956-9d8e-efd5e796ec65",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "692709bf-b8f8-4756-af93-486b1898151b",
+        "facilityName": "Medipol Pendik",
+        "resources": [
+            {
+                "id": "c439565f-5f74-4677-8ca2-6265de476d7d",
+                "name": "Prof.Dr. DENİZ ÖZDEMİR",
+                "identityNumber": "04237788965",
+                "imageId": "6990",
+                "externalId": "3312",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "535d6f45-2165-4089-bce7-583b4e20b4df",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "d525da5e-1322-429b-8307-848c5a642664",
+                "name": "Uzm.Dr. OSMAN YILDIRIM",
+                "identityNumber": "07358487702",
+                "imageId": "7121",
+                "externalId": "7658",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "4660caa0-ce82-4ca9-9561-6732e281c40c",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "dc49d07c-9033-49c1-b80f-65904dc3a36e",
+                "name": "Prof.Dr. BURCU TAŞ",
+                "identityNumber": "03702857216",
+                "imageId": "3013",
+                "externalId": "1202",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "63a5cf14-032b-44ce-a3ed-722027cbe781",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "618ee01e-db1a-48c5-8ae6-3721e6b14310",
+                "name": "Dr.Öğr.Üyesi ALİ KOÇ",
+                "identityNumber": "03495857976",
+                "imageId": "1772",
+                "externalId": "3003",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "d10cbcbf-9984-4e05-bbaa-96bbffe41b46",
+                "canOnlineAppointment": true,
+                "isInCall": false
+            },
+            {
+                "id": "c131691b-0e19-4492-b8fa-5c6c4f52a45b",
+                "name": "Uzm.Dr. HÜSEYİN KOÇ",
+                "identityNumber": "02573649763",
+                "imageId": "3036",
+                "externalId": "4385",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "b5d60bbd-f829-4a74-9f91-8fdd54d9a00b",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "863c140e-c65b-43b5-8595-6f5c7583c943",
+                "name": "Dr.Öğr.Üyesi SEDA ERDOĞAN",
+                "identityNumber": "08312358369",
+                "imageId": "4274",
+                "externalId": "7846",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "83edeb4e-22a9-4e61-87af-fdc3f8469ffb",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "215b8a84-6a50-48d4-8d96-fe7f97d3ac4c",
+                "name": "Doç.Dr. KEMAL AYDOĞDU",
+                "identityNumber": "02420300972",
+                "imageId": "6152",
+                "externalId": "6928",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "992c9287-e9e3-49bc-8291-79eff24ccdf4",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "aecb8f67-1799-4967-b495-78285da80f4f",
+        "facilityName": "Emsey Hastanesi",
+        "resources": [
+            {
+                "id": "b8dcf86f-e0c1-4685-b880-67e6f7bb3b78",
+                "name": "Uzm.Dr. TOLGA ÇETİN",
+                "identityNumber": "09928397224",
+                "imageId": "5941",
+                "externalId": "6193",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "b5226b35-770e-4249-a2eb-920fae1eaf3e",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "974535d9-1ad0-4a12-a441-b8d25fbb8771",
+                "name": "Prof.Dr. ZEYNEP TEKİN",
+                "identityNumber": "05026659136",
+                "imageId": "7406",
+                "externalId": "7254",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "828ccd71-f2a0-4e3a-babf-2d4877a55676",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            }
+        ]
+    },
+    {
+        "facilityId": "6e009a10-4045-419d-8bdf-570c31a8aac2",
+        "facilityName": "Erdem Çamlıca",
+        "resources": [
+            {
+                "id": "5e737122-5c02-47ac-b949-cafce5642761",
+                "name": "Uzm.Dr. ESRA YILDIZ",
+                "identityNumber": "06457607877",
+                "imageId": "8762",
+                "externalId": "6301",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "c7bfd15d-f087-42e9-b436-b72c488c4b38",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "89204139-ad3e-47a6-b048-73cb1a40774c",
+                "name": "Uzm.Dr. FATMA ÖZTÜRK",
+                "identityNumber": "08706446453",
+                "imageId": "8625",
+                "externalId": "6345",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "b03a40d7-4068-45f8-88ec-5bdcbc21e7b5",
+                "canOnlineAppointment": true,
+                "isInCall": false
+            },
+            {
+                "id": "e3fa5c76-c9db-4097-ac49-7b5adb943c86",
+                "name": "Uzm.Dr. MERVE ŞAHİN",
+                "identityNumber": "02410522009",
+                "imageId": "2417",
+                "externalId": "5717",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "f74168c6-fd77-4266-8c2c-b520954fd7a8",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "c12a26d5-b6b7-424f-8e04-3e50f72a5487",
+        "facilityName": "Erdem Çakmak",
+        "resources": [
+            {
+                "id": "9d1d2ca8-11ee-441d-b21c-6a0acc0a96f3",
+                "name": "Doç.Dr. YUSUF KURT",
+                "identityNumber": "04511684904",
+                "imageId": "4220",
+                "externalId": "2704",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "0e932f8e-847e-4b4f-895c-c047d5dfa2b0",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "05697665-e221-4b65-baa8-0247f0038772",
+                "name": "Uzm.Dr. CAN SARI",
+                "identityNumber": "09810854256",
+                "imageId": "2428",
+                "externalId": "9759",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "46fda2cd-1e65-402a-88cd-888e9a2a9f1d",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "2b8e6940-66dd-42ba-a7bb-4c6843caa534",
+                "name": "Uzm.Dr. HATİCE KOÇ",
+                "identityNumber": "08488753104",
+                "imageId": "8789",
+                "externalId": "5034",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "e7a3361b-4577-4a66-8a26-b0dc6b78987a",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "8ef8f3ee-cfb5-4494-9927-6107cbdc1b6a",
+                "name": "Doç.Dr. BARIŞ AYDOĞDU",
+                "identityNumber": "02490976716",
+                "imageId": "2282",
+                "externalId": "7991",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "79015ffb-8613-4c89-a814-3da22bc0e00c",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "4b080ff6-0000-4845-9879-b810dee658c0",
+                "name": "Uzm.Dr. VOLKAN TAŞ",
+                "identityNumber": "09886439750",
+                "imageId": "5736",
+                "externalId": "6813",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "b4429c9b-7f87-441a-acb4-b0b344c523b3",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "ee5e2086-3194-454c-bf91-f2810fef0608",
+                "name": "Prof.Dr. HASAN YILMAZ",
+                "identityNumber": "05329304115",
+                "imageId": "8668",
+                "externalId": "2993",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "fe246561-b5f2-43dc-b43a-41b943bf373a",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            }
+        ]
+    },
+    {
+        "facilityId": "a0869ff2-2fc9-4658-8192-f96241cf6f4f",
+        "facilityName": "Erdem Güneşli",
+        "resources": [
+            {
+                "id": "9d630fc2-397e-4152-b1d1-286f46d4efde",
+                "name": "Dr.Öğr.Üyesi OSMAN ARSLAN",
+                "identityNumber": "09363802698",
+                "imageId": "1989",
+                "externalId": "9807",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "75734b0c-2a72-4511-b96c-e9469fe6e51b",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "62bb182e-41fd-440c-a6a2-8d6b43590d56",
+                "name": "Doç.Dr. ASLI SARI",
+                "identityNumber": "01533154796",
+                "imageId": "7994",
+                "externalId": "8441",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "14dc083a-62e0-47f3-88d7-c9b780762fbc",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "dd2f43bc-9b3c-4605-93af-0131410038e0",
+                "name": "Prof.Dr. DENİZ ÇAKIR",
+                "identityNumber": "00194280621",
+                "imageId": "9758",
+                "externalId": "3626",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "47329a87-b3ce-44f9-9a02-22491956b4c2",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "6234e04a-f8ea-4496-9a80-ce36a6e84286",
+        "facilityName": "Medipol Mega",
+        "resources": [
+            {
+                "id": "088255bd-210f-4110-b0ba-efe2d35ba428",
+                "name": "Dr.Öğr.Üyesi VOLKAN ÇETİN",
+                "identityNumber": "09756308874",
+                "imageId": "3362",
+                "externalId": "1653",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "15bb1fdb-5dcc-4dc2-a3d6-e54b7321f21a",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "60d15d23-6d14-47dc-9c99-813b94267771",
+                "name": "Dr.Öğr.Üyesi SİNAN ŞAHİN",
+                "identityNumber": "09390114041",
+                "imageId": "1377",
+                "externalId": "4610",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "05341885-aade-4934-982f-b7cb529b95a9",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "cee78345-ae56-4219-9033-b3b0f315858d",
+                "name": "Dr.Öğr.Üyesi HÜSEYİN ÇETİN",
+                "identityNumber": "01174775033",
+                "imageId": "6187",
+                "externalId": "9189",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "8a26422c-dce9-4034-8904-6b35a93ad432",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "4b029af0-e834-47e7-8f06-e41d234a9b97",
+                "name": "Uzm.Dr. YUSUF DOĞAN",
+                "identityNumber": "09757416025",
+                "imageId": "1452",
+                "externalId": "5544",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "a89c2faa-15d5-4b3a-8596-0db16c24c2be",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "156f62e9-87b3-4b31-bc99-1e14f3613db4",
+                "name": "Prof.Dr. SERKAN SARI",
+                "identityNumber": "02801014440",
+                "imageId": "9360",
+                "externalId": "3636",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "2727b215-03e3-4dd7-ba8c-25d61571d860",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "6b896cb1-2141-49db-949c-2f4953a61c2e",
+                "name": "Doç.Dr. SERKAN AVCI",
+                "identityNumber": "01901643202",
+                "imageId": "6634",
+                "externalId": "5303",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "a838f1e4-58c7-4354-8e56-5de49a87dff8",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "5fe31d5c-e170-4e2b-ac61-837eead584fb",
+                "name": "Dr.Öğr.Üyesi BARIŞ AYDIN",
+                "identityNumber": "07203363759",
+                "imageId": "1083",
+                "externalId": "7730",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "c60aaad7-78ee-4e9a-a813-875ce5b6fd70",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            }
+        ]
+    },
+    {
+        "facilityId": "c09714fd-af17-4405-b3ad-258acc103770",
+        "facilityName": "Medipol Koşuyolu",
+        "resources": [
+            {
+                "id": "879c723d-69dc-4373-ba42-448edcb6d0d2",
+                "name": "Prof.Dr. MURAT SARI",
+                "identityNumber": "03720173114",
+                "imageId": "5933",
+                "externalId": "8566",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "cad9f60a-2e95-4361-b98e-a32a3a1a9b6e",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "5fd78c32-4a46-49f5-a043-5f931ce0f15e",
+                "name": "Dr.Öğr.Üyesi ÖZGÜR YILDIRIM",
+                "identityNumber": "09561524221",
+                "imageId": "7633",
+                "externalId": "2426",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "1f0febec-8261-405f-8c38-d0693678d5b6",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "6fd7e4aa-e434-418d-8778-92cf3adaab41",
+        "facilityName": "Medipol Bahçelievler",
+        "resources": [
+            {
+                "id": "4521bbf6-dc6c-4ba2-b86c-589edebd8d59",
+                "name": "Doç.Dr. ESRA DOĞAN",
+                "identityNumber": "03081804791",
+                "imageId": "8318",
+                "externalId": "7542",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "a44ed36c-c93b-49bb-84bb-377b62c67bb4",
+                "canOnlineAppointment": true,
+                "isInCall": false
+            },
+            {
+                "id": "fb1e794d-384b-48d5-aa38-9f034e72cb21",
+                "name": "Dr.Öğr.Üyesi ONUR ÖZER",
+                "identityNumber": "00202953955",
+                "imageId": "1445",
+                "externalId": "3133",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "7f8aa812-f4db-474f-ba07-39bddeeca28b",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "e2a4c8cb-a0c8-4a69-a24b-e006a3e12840",
+                "name": "Prof.Dr. HATİCE ÇETİN",
+                "identityNumber": "09081871279",
+                "imageId": "3720",
+                "externalId": "2850",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "c640eef1-310a-455a-923a-3dcbee7fb568",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "b3fcaaa1-8f5d-427e-9850-e97a44caefcb",
+                "name": "Dr.Öğr.Üyesi HÜSEYİN BULUT",
+                "identityNumber": "08525830235",
+                "imageId": "5420",
+                "externalId": "7673",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "164264e5-d369-4aa8-a6d6-215335e40080",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "26b19482-f1f2-463e-825e-d7ee5dc09329",
+                "name": "Prof.Dr. TOLGA SARI",
+                "identityNumber": "02491071894",
+                "imageId": "2435",
+                "externalId": "3815",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "8554a59e-59ce-400c-b492-32145761e4b8",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "7b40f2df-d974-4934-979d-23e11fc2e294",
+                "name": "Dr.Öğr.Üyesi TOLGA SARI",
+                "identityNumber": "03436845148",
+                "imageId": "6247",
+                "externalId": "3340",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "1200aeda-2d8f-4cbf-b17d-8cff345f9e81",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "c1eb26f2-617d-4051-841c-1590d234d0a5",
+        "facilityName": "Medipol Esenler",
+        "resources": [
+            {
+                "id": "0dae0462-091a-4615-869e-839904e462ea",
+                "name": "Dr.Öğr.Üyesi MUSTAFA ÇELİK",
+                "identityNumber": "04970473776",
+                "imageId": "9454",
+                "externalId": "3734",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "0c4d7e70-9ca5-45a3-adc3-2589adb1352b",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "7c710171-f047-42fb-b55d-906727f791c5",
+                "name": "Dr.Öğr.Üyesi ZEYNEP YILMAZ",
+                "identityNumber": "03819175192",
+                "imageId": "9420",
+                "externalId": "4805",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "d28bc840-3a12-43ee-91a5-965b1344c074",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "2c1b3b65-5cb4-4a2b-b045-8df0a990b025",
+                "name": "Prof.Dr. KEMAL KURT",
+                "identityNumber": "06770995688",
+                "imageId": "1914",
+                "externalId": "3645",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "e4366c12-44aa-4c5d-8561-14f208690912",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "9b709afc-c537-4f50-9d85-662283a177fe",
+                "name": "Uzm.Dr. HASAN POLAT",
+                "identityNumber": "03213629297",
+                "imageId": "1772",
+                "externalId": "4341",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "aa3c33fa-f297-4262-a2cc-0872cebe99cc",
+                "canOnlineAppointment": true,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "88dd8788-61f9-4b88-9ff0-9d0865bbe960",
+        "facilityName": "Medipol Sefaköy",
+        "resources": [
+            {
+                "id": "b0c34050-b19f-4512-aa3e-9a16e4275c4d",
+                "name": "Uzm.Dr. ONUR ÇELİK",
+                "identityNumber": "07632637002",
+                "imageId": "8455",
+                "externalId": "2682",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "ef135242-e45b-4153-a858-e800fa1fb8c6",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "fa0cc5ed-4535-42e9-97fc-af69e6540dd8",
+                "name": "Dr.Öğr.Üyesi FATMA ERDOĞAN",
+                "identityNumber": "06792722971",
+                "imageId": "9780",
+                "externalId": "5612",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "a81ccea3-39d4-472e-8c28-921270407e75",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "1241b0e6-0537-4dae-bcff-d6288fba6ccb",
+                "name": "Prof.Dr. YUSUF KOÇ",
+                "identityNumber": "07859739654",
+                "imageId": "9609",
+                "externalId": "3655",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "5a8cecb3-286c-4748-b93f-0563484c3f6e",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "c73b7c0d-d2f8-4ed2-8fda-7f6ff7f0ebac",
+                "name": "Prof.Dr. MUSTAFA YILDIRIM",
+                "identityNumber": "07476170872",
+                "imageId": "8936",
+                "externalId": "2937",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "c1dd6294-f075-44e0-a0b6-77ddc938f43b",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "43160a2c-fc5c-4fbc-b7a0-be09c0587128",
+        "facilityName": "Medipol Vatan",
+        "resources": [
+            {
+                "id": "be7452a7-f031-409e-a8ab-bf1eeae35b72",
+                "name": "Doç.Dr. EMİNE ÖZDEMİR",
+                "identityNumber": "04757273717",
+                "imageId": "6374",
+                "externalId": "2384",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "fa1e7e00-898a-4512-b549-2ed5f8864c00",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "97339f56-d1ee-40b7-879f-b54e390dd341",
+                "name": "Dr.Öğr.Üyesi EMRE KILIÇ",
+                "identityNumber": "01336376541",
+                "imageId": "9813",
+                "externalId": "8998",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "2eb1d7ed-4951-401e-9b15-6c61371af6ed",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "8f5ac88c-b873-4ee2-801f-2dabf9c909e6",
+                "name": "Prof.Dr. YUSUF ŞAHİN",
+                "identityNumber": "01151971672",
+                "imageId": "7459",
+                "externalId": "3317",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "2c5f82b7-d5e1-4137-a9d7-d95095ea0541",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "5a2eb7d5-10f1-4d65-a148-1840df952ac0",
+        "facilityName": "Kolan Şişli",
+        "resources": [
+            {
+                "id": "49452424-0f5e-45bf-a212-44167c1c6633",
+                "name": "Prof.Dr. VOLKAN POLAT",
+                "identityNumber": "05983936199",
+                "imageId": "7181",
+                "externalId": "3770",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "02631ea6-89b6-4269-8327-e0915202059b",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "5e40a957-b11f-4414-ad90-58f1eb981967",
+                "name": "Prof.Dr. BARIŞ TEKİN",
+                "identityNumber": "07169514031",
+                "imageId": "4350",
+                "externalId": "7103",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "c38e2ed6-dac1-4082-b256-503e691df83c",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "54b32fe1-e40c-4fd4-b1ca-5d099b9dd533",
+                "name": "Prof.Dr. CAN ŞAHİN",
+                "identityNumber": "07239727640",
+                "imageId": "4762",
+                "externalId": "3370",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "4beb51a4-511c-44ca-9b16-817ae2680040",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "c67358a3-f165-438e-a679-be35b35b52c7",
+                "name": "Uzm.Dr. CAN YILMAZ",
+                "identityNumber": "03471787090",
+                "imageId": "4026",
+                "externalId": "7004",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "c8ee17c7-3819-4f35-b1c6-f5d152f64fda",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "41cc7bc9-0c0a-4b90-b364-9399b5930c2f",
+        "facilityName": "Kolan Bayrampaşa",
+        "resources": [
+            {
+                "id": "afdce7be-72df-4df3-b614-712308c645b4",
+                "name": "Uzm.Dr. AYŞE ARSLAN",
+                "identityNumber": "02225469832",
+                "imageId": "8848",
+                "externalId": "9582",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "a0552534-42dd-4890-a53e-387de9b40618",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "4ecfbd77-eb41-428f-8d86-21b532ee73c7",
+                "name": "Uzm.Dr. EMİNE KILIÇ",
+                "identityNumber": "08702252556",
+                "imageId": "6358",
+                "externalId": "8393",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "65c13e05-6fbf-4747-a71c-42d5fb6b153c",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "40efc1d4-92eb-4b80-b508-f8bf274a9400",
+        "facilityName": "Kolan Beylikdüzü",
+        "resources": [
+            {
+                "id": "4f6a3e43-2b25-43c7-8d4b-6670e321c7a8",
+                "name": "Prof.Dr. BARIŞ KOÇ",
+                "identityNumber": "05076022142",
+                "imageId": "8180",
+                "externalId": "3268",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "77b16a67-2e28-4e54-b641-ae1e566ff872",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "522c0eef-d7c8-446f-9b18-3e70966a0810",
+                "name": "Prof.Dr. SİNAN YILMAZ",
+                "identityNumber": "00108110310",
+                "imageId": "8655",
+                "externalId": "6218",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "a2882bd4-95e2-4b99-a27f-d8689565f7eb",
+                "canOnlineAppointment": false,
+                "isInCall": true
+            },
+            {
+                "id": "0d299850-951b-4de3-9675-cde36f78bc67",
+                "name": "Uzm.Dr. ÖZGÜR ERDOĞAN",
+                "identityNumber": "07264494394",
+                "imageId": "9125",
+                "externalId": "4277",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "6b690698-50ef-460c-83e5-be64e8552bf0",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "54324a82-7dac-464b-9a32-7212301daa9c",
+                "name": "Uzm.Dr. ÖZGÜR SARI",
+                "identityNumber": "00616468317",
+                "imageId": "7696",
+                "externalId": "1595",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "1d60c7d4-862c-4d33-9aa9-384a4e5ddce4",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "98cb7997-536b-4645-8666-f7e741740ed0",
+        "facilityName": "Kolan Büyükçekmece",
+        "resources": [
+            {
+                "id": "0207b335-0bd7-4ff6-9a92-5fe1f45ead7f",
+                "name": "Doç.Dr. CAN YILDIRIM",
+                "identityNumber": "01937784788",
+                "imageId": "3789",
+                "externalId": "4648",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "949ad287-b728-4840-83d0-7cbbfe3426b1",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "046a4513-85c3-4dc0-820b-593afb5cb0ca",
+                "name": "Uzm.Dr. TAYFUN BULUT",
+                "identityNumber": "08372379826",
+                "imageId": "9278",
+                "externalId": "4555",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "8a6e71a5-5b85-4bae-9725-aaba6f37250a",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "9ac6962b-e269-4247-9811-5507d80804c0",
+                "name": "Dr.Öğr.Üyesi ZEYNEP ÖZER",
+                "identityNumber": "00678167339",
+                "imageId": "3603",
+                "externalId": "7841",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "98a3158b-b2a2-485e-bae2-eb768ffd47dc",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "c1bad5d4-830d-4731-afd1-030a5404dd46",
+                "name": "Uzm.Dr. AHMET AVCI",
+                "identityNumber": "00604852610",
+                "imageId": "1318",
+                "externalId": "7004",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "011e09d8-7587-4ccd-a6a2-4cd58be9339a",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "5954e613-0522-480c-b011-1d7f4daa3128",
+        "facilityName": "Kolan Silivri",
+        "resources": [
+            {
+                "id": "ef4cd61e-cdbb-416c-9ec1-4130f83cdd30",
+                "name": "Dr.Öğr.Üyesi DENİZ DOĞAN",
+                "identityNumber": "09178296205",
+                "imageId": "5140",
+                "externalId": "2362",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "59e44be9-9735-4928-85c0-65f7c6853bd7",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "a7a04e35-28aa-403f-8049-910751530a8f",
+                "name": "Prof.Dr. SİNAN AYDIN",
+                "identityNumber": "05176581806",
+                "imageId": "5698",
+                "externalId": "6700",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "88eb7cef-c705-4404-8707-cfa2eba94406",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "463084e0-58ad-4f83-9d9f-4b97fe6855ae",
+                "name": "Uzm.Dr. ERHAN KILIÇ",
+                "identityNumber": "00941429591",
+                "imageId": "4578",
+                "externalId": "7648",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "d4053223-53dd-4ed0-9878-6d514b5ac2db",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "5c0ee73d-b7c0-47dd-ac13-08f9eadf03c1",
+        "facilityName": "Maltepe Üniversitesi",
+        "resources": [
+            {
+                "id": "9b11da30-e7dd-4e2d-90fd-d24ba9482aeb",
+                "name": "Doç.Dr. GÜLŞEN ÖZKAN",
+                "identityNumber": "05667755015",
+                "imageId": "4319",
+                "externalId": "2641",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "f118b4e5-a3f7-41fe-9f3f-f62cbedf599d",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "4d4f09d1-808d-47af-b10b-709791141832",
+                "name": "Prof.Dr. ASLI DEMİR",
+                "identityNumber": "05485789204",
+                "imageId": "5936",
+                "externalId": "5650",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "ba73b275-d24b-4c12-9fc2-d5ffcc461f7b",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "67637789-2fae-4d88-b4bc-5594131a197e",
+                "name": "Uzm.Dr. FERİDE AYDIN",
+                "identityNumber": "07802645979",
+                "imageId": "3983",
+                "externalId": "3604",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "278b4d12-882a-4244-befe-9dfe89dd6e5d",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "d40dae5f-f9a6-4ee5-9666-a6eeb33e43ad",
+        "facilityName": "Biruni Üniversite Hastanesi",
+        "resources": [
+            {
+                "id": "646bcfe0-a3a4-41c9-89d8-8d0a908509d2",
+                "name": "Doç.Dr. ELİF ERDOĞAN",
+                "identityNumber": "03482781587",
+                "imageId": "5243",
+                "externalId": "2461",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "3494da3c-f673-43f5-b751-deaf3c32ecc2",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "c049fa2f-ec97-4c18-a687-c4ba3d7f79dc",
+                "name": "Prof.Dr. CAN ÖZKAN",
+                "identityNumber": "06024737026",
+                "imageId": "2354",
+                "externalId": "5587",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "feaef265-a5fe-4cec-86b2-82d704faafd9",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "1eb75eef-0c25-4fa9-8480-e22638ed0282",
+                "name": "Uzm.Dr. KEMAL SARI",
+                "identityNumber": "07919654412",
+                "imageId": "5012",
+                "externalId": "4737",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "ae60a3f5-8aef-4d18-bfde-b754ef514cfe",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "db46c8fc-a828-466e-8881-fe8816c41d4f",
+                "name": "Doç.Dr. ONUR POLAT",
+                "identityNumber": "02831733783",
+                "imageId": "6163",
+                "externalId": "8303",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "20a633c3-82aa-4851-9881-4816a6a77e1f",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "e6278254-65b3-46a7-88cd-0d8e75f33771",
+                "name": "Uzm.Dr. PINAR KURT",
+                "identityNumber": "02667416866",
+                "imageId": "4255",
+                "externalId": "3328",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "6e852cc8-8e1b-41de-a958-46ad7ba079d8",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "acdbd0fc-975e-4d5e-8374-84c3b78699c8",
+                "name": "Dr.Öğr.Üyesi PINAR TEKİN",
+                "identityNumber": "05056927909",
+                "imageId": "8121",
+                "externalId": "3119",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "6c871af7-889b-486b-a3e6-e4da3ff6bc9b",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "86e163e2-4bd7-423d-b918-882f94fdcc09",
+        "facilityName": "Kendine iyi bak",
+        "resources": [
+            {
+                "id": "48b47183-6447-412a-ab12-db66159a6fe8",
+                "name": "Dr.Öğr.Üyesi BURCU ŞAHİN",
+                "identityNumber": "07161279159",
+                "imageId": "7527",
+                "externalId": "2725",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "87c23a51-7d94-48b0-b600-826c47edbdbe",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "442c05b9-4b84-4a55-9b62-a32ca22aee4b",
+                "name": "Uzm.Dr. FATMA KILIÇ",
+                "identityNumber": "08898016706",
+                "imageId": "5397",
+                "externalId": "4317",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "ca9513b7-4757-462a-ac03-f472b4df7a91",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "d8cbd2d6-4b2b-4853-866f-7399451e342f",
+        "facilityName": "Kağıthane Kızılay Hastanesi ",
+        "resources": [
+            {
+                "id": "b0328b83-1b84-421e-a832-ab73219f9312",
+                "name": "Prof.Dr. ERHAN GÜNEŞ",
+                "identityNumber": "05552759100",
+                "imageId": "3766",
+                "externalId": "7630",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "eb2d9e6b-bbcd-4da1-8cfa-14867bc8d86b",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "8c8dcc29-c60c-4f2e-a2f8-29b99fce6852",
+                "name": "Prof.Dr. FERİDE AYDIN",
+                "identityNumber": "08746134187",
+                "imageId": "2968",
+                "externalId": "7667",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "3fc91be7-ceb3-432d-abcc-bb27cae3a5c7",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "2747aa7b-f6c2-4cde-9bf6-f6aa77e72642",
+        "facilityName": "Medivia Tıp Merkezi",
+        "resources": [
+            {
+                "id": "d747bf67-0227-44af-9855-58645fa0f9e0",
+                "name": "Doç.Dr. EMRE KOÇ",
+                "identityNumber": "08808584623",
+                "imageId": "2220",
+                "externalId": "3364",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "2bf87d67-574e-4a6a-ba33-8b9b073e2495",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "9e7e3087-0bf2-4c19-961e-1bb70f4a7894",
+        "facilityName": "Medivia Hospital",
+        "resources": [
+            {
+                "id": "d86d16df-f17b-43c5-8aac-268cbcb01192",
+                "name": "Doç.Dr. EMRE ÖZER",
+                "identityNumber": "03267551672",
+                "imageId": "7764",
+                "externalId": "6911",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "32b7b46d-ca0a-4fc7-b0d5-a2ffb1def16c",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "6658d460-9f61-4fc2-bf76-20d756e61770",
+                "name": "Prof.Dr. VOLKAN ARSLAN",
+                "identityNumber": "08329173454",
+                "imageId": "8847",
+                "externalId": "4528",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "790125da-3d5e-4291-8756-fea7cdbb7498",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "6dcfe3ab-892d-47bc-8d78-8ad1cb1befe3",
+        "facilityName": "Özel Çamlık Hastanesi",
+        "resources": [
+            {
+                "id": "92f2fce5-b2da-4b0a-a3e5-e58d4455223e",
+                "name": "Dr.Öğr.Üyesi SİNAN SARI",
+                "identityNumber": "01885450412",
+                "imageId": "9192",
+                "externalId": "6739",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "2c67f96e-8475-4b57-b3a7-a985c555d967",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "ca37caff-d312-462c-ae19-14f4ec48fb53",
+        "facilityName": "Altıntepe Kızılay Tıp Merkezi",
+        "resources": [
+            {
+                "id": "b30d0522-4bbc-4a3f-9723-aca637ae3d91",
+                "name": "Prof.Dr. YUSUF ERDOĞAN",
+                "identityNumber": "02497517375",
+                "imageId": "3033",
+                "externalId": "4560",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "523f52c5-a1a6-4341-a8f0-dba216d62f13",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "64446241-6c76-46c6-beac-6b28d87f8320",
+                "name": "Prof.Dr. VOLKAN TEKİN",
+                "identityNumber": "04040326971",
+                "imageId": "9537",
+                "externalId": "7854",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "a83856a1-6e3e-4fce-82c4-d3bd2114287e",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "49176d71-111d-4239-807b-018de481c868",
+        "facilityName": "Bakırköy Kızılay Tıp Merkezi ",
+        "resources": [
+            {
+                "id": "3fd98feb-44f2-4809-acbf-802ab6ebc871",
+                "name": "Dr.Öğr.Üyesi ERHAN DOĞAN",
+                "identityNumber": "06014854584",
+                "imageId": "5952",
+                "externalId": "4724",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "6e0e0241-daa0-414b-a7e4-c4c2e2ae0259",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "a6bf8e43-72d2-4f0e-9d50-ad9eb82891a0",
+                "name": "Doç.Dr. HASAN ÇELİK",
+                "identityNumber": "03084940150",
+                "imageId": "1744",
+                "externalId": "5586",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "45d0c252-3d50-4b30-833e-ab71b9b9693f",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "250927ce-ee82-4064-853a-e24bce9fbb89",
+        "facilityName": "Kartal Kızılay Hastanesi",
+        "resources": [
+            {
+                "id": "3aac258a-9064-48a9-b110-906f2f01385d",
+                "name": "Uzm.Dr. ALİ ÖZKAN",
+                "identityNumber": "09915244274",
+                "imageId": "8020",
+                "externalId": "3063",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "d7dec8c3-eae6-42cf-b685-ff59e7bd279d",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "ffa74a97-f6de-459b-8e7c-ec18474f4e94",
+        "facilityName": "Central Hospital Ataşehir",
+        "resources": [
+            {
+                "id": "8875ca6b-4c5f-492b-ba4f-920ad62c4abc",
+                "name": "Uzm.Dr. VOLKAN YILDIZ",
+                "identityNumber": "07406018192",
+                "imageId": "5818",
+                "externalId": "4451",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "77ddff8c-3986-4ca3-b0e7-fd0100899c04",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "f1d8ecf9-8ac4-44dd-b8de-ee943057ddbb",
+        "facilityName": "Central Hospital Kozyatağı",
+        "resources": [
+            {
+                "id": "e5d95742-77ca-48bf-9d00-0cf08fc537f2",
+                "name": "Uzm.Dr. MERVE TEKİN",
+                "identityNumber": "01792489441",
+                "imageId": "2818",
+                "externalId": "2299",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "72c19dd2-9828-4dbc-b6e7-1345ef604e24",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "8647a291-63a2-45bc-ab98-29d14b373fc5",
+        "facilityName": "Özel Pendik Yüzyıl Hastanesi",
+        "resources": [
+            {
+                "id": "d6db4eb3-b0ff-4b08-82e5-a0de6e27aea9",
+                "name": "Doç.Dr. MUSTAFA TEKİN",
+                "identityNumber": "08749046580",
+                "imageId": "2047",
+                "externalId": "9208",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "bd39b730-b94f-4517-91c8-f5133855be81",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "749071e3-db03-4bcf-9c36-43b588588156",
+                "name": "Prof.Dr. NESRİN ÇETİN",
+                "identityNumber": "01223551006",
+                "imageId": "5328",
+                "externalId": "8451",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "30e0797e-b373-42c7-b8fb-735a78647a6d",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "7a0b57f6-5066-40a3-b93f-09b2b4317cb3",
+        "facilityName": "Medipol Acıbadem Bölge Hastanesi",
+        "resources": [
+            {
+                "id": "988a39fb-c711-4c64-853d-b5e66fd49d1c",
+                "name": "Dr.Öğr.Üyesi FATMA ÖZDEMİR",
+                "identityNumber": "03871581689",
+                "imageId": "7142",
+                "externalId": "6291",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "bfb5f3d0-a6a7-426f-af7f-12c197b50e1a",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "812e78a1-abb5-4c21-9831-f21362612257",
+                "name": "Prof.Dr. SEDA ÇETİN",
+                "identityNumber": "00375577007",
+                "imageId": "6417",
+                "externalId": "4213",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "d5a52af1-af80-42b6-8686-8f740ed863ba",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "c2b8141c-9049-411a-b920-a1fb742114dc",
+                "name": "Doç.Dr. HASAN ŞİMŞEK",
+                "identityNumber": "08885508330",
+                "imageId": "5122",
+                "externalId": "7701",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "e9b065d4-ac48-425f-8173-9c7b4597b589",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "6783bbcb-aeb1-4546-8055-eb2e959ce028",
+        "facilityName": "İstanbul Onkoloji Hastanesi",
+        "resources": [
+            {
+                "id": "f447baff-f154-4e36-9398-ecd7e0f7c966",
+                "name": "Prof.Dr. ASLI GÜNEŞ",
+                "identityNumber": "08719546968",
+                "imageId": "4750",
+                "externalId": "6310",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "4bff2ced-c750-4edf-b3f0-f27099e8e2ca",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "1d8e79ed-2087-4e66-b76b-3052b11aae25",
+                "name": "Uzm.Dr. ERHAN BULUT",
+                "identityNumber": "04488655736",
+                "imageId": "3175",
+                "externalId": "4589",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "671f27c7-bf2e-4d3a-8743-257552b9099b",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "da1c697c-e5cf-41e7-96a5-6fbcfbf4c752",
+        "facilityName": "Özel Silivri Anadolu Hastanesi",
+        "resources": [
+            {
+                "id": "81084885-0cd6-41c3-9012-99b63ef09148",
+                "name": "Prof.Dr. TAYFUN ARSLAN",
+                "identityNumber": "02532261979",
+                "imageId": "1288",
+                "externalId": "2396",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "adc62ded-78e2-4000-95a1-11c781084251",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "67a0799b-8679-44d0-a5c3-15e1193fea74",
+                "name": "Uzm.Dr. KEMAL ÖZKAN",
+                "identityNumber": "07764889613",
+                "imageId": "1560",
+                "externalId": "7881",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "ecb01bac-5682-4d01-9385-29628ca8bcef",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "90184e77-ddd4-4894-909f-2a2df4e9c155",
+                "name": "Uzm.Dr. ÖZGÜR YILDIRIM",
+                "identityNumber": "08211236741",
+                "imageId": "3107",
+                "externalId": "3213",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "feeae1fe-fadb-42da-90a1-00583deefc4d",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "553cf49e-9683-4056-8697-f7fe5c128083",
+                "name": "Doç.Dr. HASAN KOÇ",
+                "identityNumber": "05951237209",
+                "imageId": "5345",
+                "externalId": "4484",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "41c9850b-1098-4ccb-922d-71f1259b107d",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "42524efe-d682-41ae-b752-99909ef49a7f",
+                "name": "Dr.Öğr.Üyesi YASEMİN ÇETİN",
+                "identityNumber": "01691673912",
+                "imageId": "7415",
+                "externalId": "3127",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "c1a43465-9a21-4206-8d3f-1ac871cbc3a1",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "ffbd30c6-ad52-4235-8cff-58fcc6bcc72d",
+                "name": "Dr.Öğr.Üyesi AHMET AVCI",
+                "identityNumber": "02734365258",
+                "imageId": "2942",
+                "externalId": "1191",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "73cfbaeb-1497-437c-8656-4ba0a9e11779",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "11244975-af2c-4c18-88bb-f157b64f05fa",
+                "name": "Uzm.Dr. CAN YILDIZ",
+                "identityNumber": "05501284161",
+                "imageId": "6652",
+                "externalId": "5877",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "9a3f2ec9-ae94-4eb2-97d9-2101ac500d22",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "31152672-3be8-472c-8338-5bd7a5366b32",
+        "facilityName": "Özel Avcılar Anadolu Hastanesi",
+        "resources": [
+            {
+                "id": "d3e7bc39-0d36-44c5-a8f6-c1ca8033942b",
+                "name": "Doç.Dr. ELİF POLAT",
+                "identityNumber": "06892921857",
+                "imageId": "6198",
+                "externalId": "7464",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "d373dc7f-01d2-4778-b365-d063fd5d055c",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "d584075c-4ab7-4a29-b3d4-70d004049845",
+                "name": "Doç.Dr. SEDA YILDIZ",
+                "identityNumber": "07592217540",
+                "imageId": "5077",
+                "externalId": "7107",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "c959d861-f84c-460e-b9ab-c6df8a521de7",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "621049a8-21a2-411f-97c0-ff835ffa9ba4",
+                "name": "Prof.Dr. AYŞE ÇAKIR",
+                "identityNumber": "02812802069",
+                "imageId": "9312",
+                "externalId": "7667",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "c8ebc1ee-6eba-4389-a787-4af004a9246c",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "eb651b16-d616-46e4-8408-fa8ba5b58b5f",
+        "facilityName": "Netrisk Tech",
+        "resources": [
+            {
+                "id": "4fc3873f-4aeb-4815-a434-23373aa24d8b",
+                "name": "Dr.Öğr.Üyesi VOLKAN TAŞ",
+                "identityNumber": "03846070852",
+                "imageId": "9267",
+                "externalId": "4745",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "4dc8b068-6a54-4e91-9353-a78c1f16f0f5",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            },
+            {
+                "id": "bbe377ef-029e-46ec-b95d-42f19ede6078",
+                "name": "Prof.Dr. HÜSEYİN KAYA",
+                "identityNumber": "07332007274",
+                "imageId": "6474",
+                "externalId": "4634",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "38f26aae-9b1f-4293-b339-d70c53396f8f",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    },
+    {
+        "facilityId": "65d2c896-29f1-4c31-8859-6e0fdf0e4378",
+        "facilityName": "Central Hospital Etiler",
+        "resources": [
+            {
+                "id": "7c1b1b0c-988a-4333-942a-657791058817",
+                "name": "Prof.Dr. ULAŞ YILMAZ",
+                "identityNumber": "08469281628",
+                "imageId": "4754",
+                "externalId": "7609",
+                "departmentName": "İç Hastalıkları",
+                "departmentCode": "1000",
+                "departmentId": "fa075068-bffd-4146-9066-36b6d50152ba",
+                "canOnlineAppointment": false,
+                "isInCall": false
+            }
+        ]
+    }
+]

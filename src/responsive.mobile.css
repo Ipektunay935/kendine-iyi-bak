@@ -1,0 +1,33 @@
+/* ===== Minimal, non-invasive responsive overrides ===== */
+/* No global resets. Only small-screen rules. */
+
+@media (max-width: 992px){
+  /* Layout: single column */
+  .page{ display:block !important; }
+
+  /* Hide the normal sidebar but keep it available inside the modal sheet */
+  .page .sidebar{ display:none !important; }
+  .filters-sheet .sidebar{ display:block !important; }
+
+  /* Show the mobile "Filtrele" button if it exists */
+  .btn-filter{ display:inline-flex !important; }
+
+  /* Cards grid tighter on tablets */
+  .cards{ grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)) !important; gap:12px !important; }
+}
+
+@media (max-width: 576px){
+  /* Phone: 2 columns max */
+  .cards{ grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap:10px !important; }
+}
+
+/* Optional: prevent CTA chips from overflowing on narrow cards (mobile only) */
+@media (max-width: 576px){
+  .doctor-card [class*="btn"],
+  .doctor-card button{
+    position: static !important;
+    transform: none !important;
+    max-width: 100% !important;
+    white-space: nowrap !important;
+  }
+}
