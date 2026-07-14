@@ -1,4 +1,4 @@
-# Kendine İyi Bak 🩺
+# Kendine İyi Bak 
 
 Vue 3 + Vite ile geliştirilmiş, doktor/hastane arama ve filtreleme arayüzü. Kullanıcılar branş, şehir, online randevu durumu, nöbet durumu, dil ve ödeme yöntemi gibi kriterlere göre doktor listesini filtreleyip sıralayabiliyor.
 
