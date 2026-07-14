@@ -1,5 +1,7 @@
 # Kendine İyi Bak 
 
+🇬🇧 *[Read this in English](README.en.md)*
+
 Vue 3 + Vite ile geliştirilmiş, doktor/hastane arama ve filtreleme arayüzü. Kullanıcılar branş, şehir, online randevu durumu, nöbet durumu, dil ve ödeme yöntemi gibi kriterlere göre doktor listesini filtreleyip sıralayabiliyor.
 
 Bu proje bir staj çalışması sırasında geliştirilmiştir. Repoda yer alan doktor/hastane verileri (`src/assets/doctors.json`) **gerçek kişisel veri içermez** — sadece uygulamanın arayüzünü göstermek amacıyla üretilmiş örnek (mock) verilerdir.
